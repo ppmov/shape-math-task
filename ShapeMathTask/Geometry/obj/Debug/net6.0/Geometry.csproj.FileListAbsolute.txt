@@ -1,0 +1,12 @@
+C:\.NET\ShapeMathTask\Geometry\bin\Debug\net6.0\Geometry.deps.json
+C:\.NET\ShapeMathTask\Geometry\bin\Debug\net6.0\Geometry.dll
+C:\.NET\ShapeMathTask\Geometry\bin\Debug\net6.0\Geometry.pdb
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\Geometry.csproj.AssemblyReference.cache
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfoInputs.cache
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\Geometry.AssemblyInfo.cs
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\Geometry.csproj.CoreCompileInputs.cache
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\Geometry.dll
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\refint\Geometry.dll
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\Geometry.pdb
+C:\.NET\ShapeMathTask\Geometry\obj\Debug\net6.0\ref\Geometry.dll
